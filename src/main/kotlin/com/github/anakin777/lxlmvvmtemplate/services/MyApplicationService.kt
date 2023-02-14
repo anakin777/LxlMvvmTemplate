@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.anakin777.lxlmvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.anakin777.lxlmvvmtemplate.MyBundle
 
 class MyApplicationService {
 
